@@ -2,8 +2,7 @@
 
 ## **Introduction**
 
-In this study, a macroeconomic analysis of the US economy is made and its main problems are analyzed.	:dollar:
-
+In this study, a macroeconomic analysis of the US economy is made and its main problems are analyzed.
 ## **License**
 
 Project Title is released under the MIT License.

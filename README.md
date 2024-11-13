@@ -1,4 +1,4 @@
-# **Macroeconomic-Analysis-of-the-US-Economy---Part-1**
+# **Macroeconomic Analysis of the US Economy - Part 1**
 
 ## **Introduction**
 

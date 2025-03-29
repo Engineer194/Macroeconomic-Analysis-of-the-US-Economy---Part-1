@@ -5,7 +5,7 @@
 In this study, a macroeconomic analysis of the US economy is made and its main problems are analyzed.
 ## **License**
 
-Project Title is released under the Attribution-NonCommercial 4.0 (CC BY-NC 4.0) License.
+Project is released under the Attribution-NonCommercial 4.0 (CC BY-NC 4.0) License.
 See the **[LICENSE](https://creativecommons.org/licenses/by-nc/4.0/)** file for details.
 
 ## **Authors and Acknowledgment**
